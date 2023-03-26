@@ -19,3 +19,11 @@ border: 1px solid grey`;
 export const Item = styled.p`
   margin-right: 10px;
 `;
+export const ListItem = styled.li`
+
+color: blue;
+  margin-bottom: 5px;
+  font-size:16px;
+  align-items: center;
+  justify-content: center;
+`;
